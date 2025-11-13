@@ -1,9 +1,10 @@
 import React from 'react';
+import { Button } from './components/ui/button';
 
 const App = () => {
   return (
     <React.Fragment>
-      <h1>Mulai Letsgooo</h1>
+      <Button>Hello World</Button>
     </React.Fragment>
   );
 };
