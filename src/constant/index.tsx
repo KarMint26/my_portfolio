@@ -59,22 +59,22 @@ const socialLinks: LinksType[] = [
   {
     icon: Facebook,
     label: 'Facebook',
-    link: '/#',
+    link: '#',
   },
   {
     icon: Instagram,
     label: 'Instagram',
-    link: '/#',
+    link: '#',
   },
   {
     icon: Twitter,
     label: 'Twitter',
-    link: '/#',
+    link: '#',
   },
   {
     icon: Youtube,
     label: 'Youtube',
-    link: '/#',
+    link: '#',
   },
 ];
 

@@ -1,4 +1,5 @@
 import type { JSX } from 'react';
+import type { LucideIcon } from 'lucide-react';
 
 export type ProjectType = {
   imgSrc: string;
