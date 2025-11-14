@@ -8,7 +8,7 @@ export default function Profile() {
         <div className='flex items-center justify-between gap-x-10'>
           <h1 className='text-3xl font-bold'>Karel</h1>
 
-          <p className='text-sm'>Fullstack Web Developer</p>
+          <p className='text-sm'>Web Developer</p>
         </div>
 
         <img
